@@ -200,7 +200,7 @@ p {
 
 /* home Section */
 #home {
-	background-image: url(/img/background.jpg);
+	background-image: url(/https://github.com/DenzelObispo/Portfolio/blob/master/img/background.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
